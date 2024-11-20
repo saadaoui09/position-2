@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(162, 201, 201);
+}
+.green{
+    background-color: green;
+    height: 50px;
+    
+    align-content: center;
+    position: relative;
+    left: 50px;
+    top: 20px;
+
+
+}
+.blue{
+    background-color: blue;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.red{
+    background-color: red;
+    height: 50px;
+    position: fixed;
+    top: 600px;
+    right: 100px;
+
+
+}
